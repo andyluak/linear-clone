@@ -5,6 +5,8 @@
 
 ## Tailwind tricks
 
+### Customizing the font size
+
 ```
 fontSize: {
   md: "1.6rem",
