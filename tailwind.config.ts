@@ -13,8 +13,10 @@ const config: Config = {
     colors: {
       background: "#000212",
       white: "#ffffff",
+      "white-a08": "rgba(255, 255, 255, 0.08)",
     },
     fontSize: {
+      sm: "1.2rem",
       md: "1.6rem",
       lg: ["2.2rem", "1.3"],
       "5xl": ["8rem", "1"],

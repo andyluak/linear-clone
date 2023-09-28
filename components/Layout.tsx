@@ -9,7 +9,7 @@ export default function Layout({ children }: Props) {
   return (
     <>
       <Header />
-      <main>{children}</main>
+      <main className="pt-[var(--navigation-height)]">{children}</main>
       <Footer />
     </>
   );
