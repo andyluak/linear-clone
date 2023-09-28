@@ -16,6 +16,9 @@ const config: Config = {
       fontFamily: {
         sans: '"SF Pro Display", "Helvetica Neue", "Helvetica", "Arial", sans-serif',
       },
+      colors: {
+        background: "#000212",
+      },
     },
   },
   plugins: [],
